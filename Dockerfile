@@ -12,4 +12,4 @@ ENV SAGE_ROOT=/home/sage/sage
 ENV PATH="/home/sage/sage/build/bin:/home/sage/sage/src/bin:/home/sage/sage/local/bin:${PATH}"
 
 RUN sage -pip install rise
-COPY --chown=sage:sage Sections /home/sage/
+COPY --chown=sage:sage Sections /home/sage/Sections
