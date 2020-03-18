@@ -1,4 +1,4 @@
-FROM sagemath/sagemath:8.9
+FROM sagemath/sagemath:9.0
 LABEL maintainer="Daniel Balague Guardia <danielbalague@gmail.com>"
 ENV LC_ALL C.UTF-8
 ENV LANG C.UTF-8
