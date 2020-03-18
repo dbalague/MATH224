@@ -9,6 +9,11 @@ We include presentations done with the RISE extension and some interactive examp
 * Version of Sage: 8.9 (Python 2)
 * Examples for the course MATH 224
 
+## Launch me on Binder!
+
+Click at the Binder banner to launch the project
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dbalague/MATH224/master)
+
 ## How to contact me? ##
 
 * Daniel Balague Guardia

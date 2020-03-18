@@ -5,7 +5,7 @@ ENV LANG C.UTF-8
 ENV SHELL /bin/bash
 
 USER sage
-ENV HOME /home/${USER}
+ENV HOME /home/sage
 
 ENV SAGE_ROOT=/home/sage/sage
 
