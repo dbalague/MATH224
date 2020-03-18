@@ -13,4 +13,3 @@ ENV PATH="/home/sage/sage/build/bin:/home/sage/sage/src/bin:/home/sage/sage/loca
 
 RUN sage -pip install rise
 COPY --chown=sage:sage Sections /home/sage/
-
