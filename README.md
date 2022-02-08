@@ -17,7 +17,7 @@ Click at the Binder banner to launch the project
 ## How to contact me? ##
 
 * Daniel Balague Guardia
-* danielbalague@gmail.com
+* dbalague@tudeflt.nl
 
 ## References ##
 - ### SageMath ###
