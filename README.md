@@ -6,7 +6,7 @@ We include presentations done with the RISE extension and some interactive examp
 
 ## Contents
 * SageMath Container with RISE
-* Version of Sage: 8.9 (Python 2)
+* Version of Sage: 9.0 (Python 3)
 * Examples for the course MATH 224
 
 ## Launch me on Binder!
